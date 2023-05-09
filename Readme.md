@@ -5,7 +5,7 @@
     
 # Usei das tecnologias do Python, para navegar no Instagram e realizar curtidas em temas(hashtag) que você escolher. 
 ## Selenium 
-- Necessário [baixar o Selenium](https://www.selenium.dev/downloads/) na sua máquina antes de inicar o projeto, importando o Wbdriver. 
+- Necessário [baixar o Selenium](https://www.selenium.dev/downloads/) na sua máquina antes de inicar o projeto. 
 ## Webdriver
 - Com o WebDriver você conseguirá navegar pela internet e executar comandos. 
 - [FIREFOX](https://github.com/mozilla/geckodriver/releases)
