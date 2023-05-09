@@ -1,5 +1,5 @@
 # Automatização de curtidas no Instagram com Python
-### Com a atumatuzação de curtidas no insta, você não precisará ficar horas curtindo fotos ou vídeos para a plataforma notar seu perfil, com isso, você ganhará mais seguidores e vizualizações. 
+### Com a atumatuzação de curtidas no insta, você não precisará ficar horas curtindo fotos ou vídeos manualmente para a plataforma notar seu perfil, com isso, você ganhará mais seguidores e vizualizações. 
 
 ###  Fiz esse código pra usar insta do meu cachorro 🐶	rs, mas você pode usar onde quiser.
     
